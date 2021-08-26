@@ -4,4 +4,4 @@ Repo with understandable ML paper implementations and comparison of different ar
 
 * Currently available:
     * Style transfer:
-        * [Neural style transfer](neural-style-transfer/README.md)
+        * [A Neural Algorithm of Artistic Style](neural-style-transfer/README.md)
